@@ -12,14 +12,6 @@ using namespace std;
 int WIDTH = 400;
 int HEIGHT = 200;
 
-
-
-
-
-
-
-
-
 int main()
 {
 
@@ -40,15 +32,11 @@ int main()
     {
         myScene.AddSphere({ -35 + (i*10),5,70 }, 4, 0.8);
     }
-
-    
-   // myScene.AddSphere({ 12,3,30 }, 5, 0.4);
+  
     myScene.AddLight({ 10,25,60 }, 15);
-   // myScene.AddLight({ 15,15,15 }, 4);
     myScene.AddLight({ -15,15,40 }, 4);
-
     myScene.AddPlane({ 0,-3,0 }, { 0,1,0 }, 0.9);
-    myScene.AddPlane({ 0,40,0 }, { 0,-1,0 }, 0.3);
+    myScene.AddPlane({ 0,35,0 }, { 0,-1,0 }, 0.3);
 
     while (true)
     {
