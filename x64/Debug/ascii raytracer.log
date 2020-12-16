@@ -1,0 +1,15 @@
+﻿  ascii raytracer.cpp
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\vector.h(12,21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(115,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(134,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(135,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(138,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(162,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(178,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(191,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(39,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(40,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(41,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(124): warning C4715: 'Scene::getColor': not all control paths return a value
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Object.h(153): warning C4715: 'Obj::rayIntersects': not all control paths return a value
+  ascii raytracer.vcxproj -> C:\Users\User\source\repos\ascii raytracer\x64\Debug\ascii raytracer.exe

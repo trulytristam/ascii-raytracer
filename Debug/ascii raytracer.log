@@ -1,0 +1,14 @@
+﻿  ascii raytracer.cpp
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\vector.h(12,21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(110,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(129,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(130,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(155,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(171,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(184,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(40,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(41,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(42,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(43,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Object.h(153): warning C4715: 'Obj::rayIntersects': not all control paths return a value
+  ascii raytracer.vcxproj -> C:\Users\User\source\repos\ascii raytracer\Debug\ascii raytracer.exe

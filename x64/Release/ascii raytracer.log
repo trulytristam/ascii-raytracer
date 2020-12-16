@@ -1,0 +1,18 @@
+﻿  ascii raytracer.cpp
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\vector.h(12,21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(129,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(137,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(162,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(163,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(166,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(208,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\Scene.h(221,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(41,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(50,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\ascii raytracer\ascii raytracer\ascii raytracer.cpp(51,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  1 of 104 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ascii raytracer.vcxproj -> C:\Users\User\source\repos\ascii raytracer\x64\Release\ascii raytracer.exe
